@@ -43,3 +43,5 @@ the free stream should be equal to zero.
 
 
 Compare the results with XFLR5 results. 
+
+* For Further Understanding of the method visit, Low Speed Aerodynamics by Katz and Plotkins *
