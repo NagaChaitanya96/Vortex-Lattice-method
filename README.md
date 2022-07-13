@@ -8,7 +8,7 @@ on the lift of the flat wing we also have a Bound vortex.
 Analytical solutions for thes models are very difficult hence, we go for numerical simulations based on few assumptions to generate solutions similar to the closed form solutions. Some of the approaches
 are as follows.
 
-# Lifting line model:
+# Lifting line model using Horse Shoe Elements:
 
 For 3D geometry finding the analytical solution of the integral equations is tedious. So, Lifting line theory is a procedure used for calculating the lifting properties of a wing by a single lifting line
 approximating that will allow the closedform solution. It captures the basic features of 3D lifting flows and predicts the reduction in the lift slope and increase in the induced drag with reducing aspect ratio.
